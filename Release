@@ -6,18 +6,18 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: 抖音douyin：mm091207
-Date: Sun, 08 Nov 2026 08:36:00 UTC
+Date: Sun, 08 Nov 2026 08:37:49 UTC
 
 MD5Sum:
  daa861a3fc6d63e92c85ff9db4590d67 1355 Packages
- 35aa420dce6926ca6c809c3031c5b595 782 Packages.gz
+ d3e3bcf61be92f1ac8d4dfca7d06e0dd 782 Packages.gz
  08b232dccef475e2b92924ef22df69c9 773 Packages.zst
  4dca799800e53e9c82bfdf4777e9195f 903 Packages.bz2
  9ef4da612aac7e16241eab137d31c32d 828 Packages.xz
 
 SHA256:
  7547466672b7756ae38c69b62247936517c219dcfeeb83b98bc1f084bde3c60f 1355 Packages
- 3c5c3f03f3a5d465401aca923883ebc6aa4fe5bc783fc7f7699a8eed9c7a3944 782 Packages.gz
+ a587834494ec3756e831925d0ebfeffb4bbfc9c5f281c2e1d5476aeedb1e9577 782 Packages.gz
  32670398ecc31ff18bf782863767321080e49eceea714746e5b739c20c17761a 773 Packages.zst
  34ebc93440188adce56c97ad61145f51cc1ea1d04fdb1a1e098c4dafea1b3376 903 Packages.bz2
  10e7049b23c4eb80ee2f60306af798454350aaba35ddde52c4d1569f14e6fb88 828 Packages.xz
