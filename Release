@@ -1,0 +1,24 @@
+Origin: WU Tahoe‘s Repo
+Label: WU Tahoe‘s Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 抖音douyin：mm091207
+Date: Sun, 08 Nov 2026 08:23:48 UTC
+
+MD5Sum:
+ 549bc3a80809122c151357063efd9f91 730 Packages
+ 173e8fc4a7b0e2a0fcf52639252fa86e 457 Packages.gz
+ 25bc50efde814a6575ff80b644d603e8 457 Packages.zst
+ 9070d1699b9756002d4ca9e7a4449e5a 512 Packages.bz2
+ 8b77cf93ed41051b9cbc0151780338c0 528 Packages.xz
+
+SHA256:
+ 9a0880bfec36ad4937f18612109097b5aea7be11722c07f9dd81b9921d3e3d1f 730 Packages
+ 578d730458fbf8026d190537f8dd29b95a8739a99bb54cb54ce8cbdd3b71b9f2 457 Packages.gz
+ 3afe321b805b27148a18aeb4afee05af602a2ad13e39cb52315fce67fac74936 457 Packages.zst
+ a45ed89105c654dcea99fadf8f6a06581e2bfc065bc9a24a6e8e8fda5630a871 512 Packages.bz2
+ d9155002512f467424ec5ab929119cef925f52d7029bc21e4c586f25c8acd69a 528 Packages.xz
+

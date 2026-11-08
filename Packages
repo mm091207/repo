@@ -1,0 +1,19 @@
+Package: com.bazik1337.ios2627anims
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: bazik1337
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.6.1)
+Conflicts: com.bazik.codexgenie27, com.bazik.genie27
+Replaces: com.bazik.codexgenie27
+Filename: debs/com.bazik1337.ios2627anims_1.4.7_iphoneos-arm64.deb
+Size: 1048
+MD5sum: 6995a39900121e1485daae7d7c8afee4
+SHA1: 64d9d8406f0ded08262a25b237061d2a570d8629
+SHA256: 909f5d88920eeaafe8672a2548ff97cba8a390ed62a2da59333ce99e85fd2ed7
+Section: Tweaks
+Homepage: https://t.me/ba31k_tweaks
+Description: iOS 27 app open and close animations. Authors: bazik1337 (Telegram @bazik1337). Channel: https://t.me/ba31k_tweaks
+Author: bazik1337 (@bazik1337)
+Name: iOS 27 Animations
+
