@@ -16,6 +16,25 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TrollPad
 Sponsor: WU Tahoe’s Repo
 
+Package: byg.iosios.net.afc2d-arm64
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: WU Tahoe‘s Repo
+Installed-Size: 343
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: debs/byg.iosios.net.afc2d-arm64_1.2.1_iphoneos-arm64.deb
+Size: 1164
+MD5sum: 7eef2a37aa571e77ebd1f99a915254dd
+SHA1: c662ef9cf181b33e8a5bda489d2ad92635853feb
+SHA256: fa2748307ae7251de3ab1f0c88147705f18715b09570410389bb4dc560425c1f
+Description: 在电脑上直接读取系统文件
+Author: Saurik, Cannathea
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: AppleFileConduit2电脑访问手机文件
+
 Package: com.bazik1337.ios2627anims
 Version: 1.4.7
 Architecture: iphoneos-arm64
@@ -34,4 +53,21 @@ Homepage: https://t.me/ba31k_tweaks
 Description: 移植iOS27的部分动画。测试iOS15.0设备会导致死机！！！iOS15.6.1可以运行
 Author: bazik1337 (@bazik1337)
 Name: iOS 27 Animations
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 592
+Depends: ldid
+Filename: debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm64.deb
+Size: 956
+MD5sum: 1ef30d351c5eabcdbf651e622ae838a7
+SHA1: e76939fc1e26e927d25a63d6d6e7be0386c6533b
+SHA256: 083fcbf33ecc1a95cafd091cd700bfb4bdf360358d6629722f4c77c53119fe65
+Section: Applications
+Description: 越狱版巨魔，俗称白巨魔
+ 非常好用喵
+Author: opa334
+Name: TrollStore Lite
 
