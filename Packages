@@ -35,6 +35,23 @@ Author: Saurik, Cannathea
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppleFileConduit2电脑访问手机文件
 
+Package: byg.iosios.net.iphoneduoicon
+Version: 0.1.21
+Architecture: iphoneos-arm64
+Maintainer: WU Tahoe‘s Repo
+Installed-Size: 728
+Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: debs/byg.iosios.net.iphoneduoicon_0.1.21_iphoneos-arm64.deb
+Size: 1036
+MD5sum: 8ac97196ffba0882597c8eaa79ed38b1
+SHA1: c0e26e7c368eb5037338225067722a97f812c7dd
+SHA256: 9c3f7600dc8e488420193ccae7af3a444f735e6cf21885901cca58219d352c39
+Description: 仿iPhone Duo
+Author: Banana
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Duo状态栏
+
 Package: com.bazik1337.ios2627anims
 Version: 1.4.7
 Architecture: iphoneos-arm64
