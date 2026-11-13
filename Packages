@@ -52,6 +52,23 @@ Author: Banana
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Duo状态栏
 
+Package: com.bazik1337.flashlight18
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: bazik1337
+Installed-Size: 1820
+Depends: mobilesubstrate
+Filename: debs/com.bazik1337.flashlight18_1.0.2_iphoneos-arm64.deb
+Size: 1040
+MD5sum: d6e869b8a902cc85cd71fa17fa6f7bca
+SHA1: 483119f296b4c2c6d030e479e3435be7b45eaaf5
+SHA256: d2b488e32d77665d67b743bb7ed8a0b12e9f99e872c05043fdd4477646284af1
+Section: Tweaks
+Homepage: https://t.me/ba31k_tweaks
+Description: iOS 18 Dynamic Island flashlight with real beam width control for iPhone 14 Pro and 14 Pro Max on iOS 16. Authors: bazik1337 (Telegram @bazik1337). Channel: https://t.me/ba31k_tweaks
+Author: bazik1337 (@bazik1337)
+Name: iOS 18 Flashlight
+
 Package: com.bazik1337.ios2627anims
 Version: 1.4.7
 Architecture: iphoneos-arm64
