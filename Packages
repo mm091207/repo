@@ -71,6 +71,22 @@ Description: 移植iOS27的部分动画。测试iOS15.0设备会导致死机！�
 Author: bazik1337 (@bazik1337)
 Name: iOS 27 Animations
 
+Package: com.mm091207.opaboutphone
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Lumid
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.lumid.opaboutphone_1.5.0_iphoneos-arm64.deb
+Size: 1020
+MD5sum: 8236201ff9e064bac224c169936f37ac
+SHA1: fc13d2930b19e6df1625ccd9793075fbf9e05dbb
+SHA256: 89996778a03087f7faeb2566d5d9afffd7bde47ba1fd19e16201097f03865c55
+Description: 仿OPPO关于本机
+Author: Lumid
+Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
+Name: OPPO About Phone
+
 Package: com.opa334.trollstorelite
 Version: 2.1.1
 Architecture: iphoneos-arm64
