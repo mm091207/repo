@@ -5,11 +5,10 @@ Maintainer: WU Tahoe’s Repo
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: debs/apt.cydiakk.trollpad-rootless_1.3_iphoneos-arm64.deb
-Size: 1228
-MD5sum: 9efe014cd20c6753fc3c4900abb667b0
-SHA1: 1d6502ba7ef2c0787a56ec4eed6a0feada5c0b39
-SHA256: 36658e791a49b8f9644dff6708398ecce8c380210c46039b869809b04c0c9c85
-Section: 插件列表
+Size: 1192
+MD5sum: f10131547fef82357a349dae4892a480
+SHA1: aeab2338a5319f0f5499f809df52e4dddeb6c710
+SHA256: 105f0dbe14f38bacf92ec8166abcb7f9c03a5118821985537fd8a148d3761df8
 Description: 启用一些iPadOS功能
 Author: khanhduytran0
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
@@ -26,10 +25,10 @@ Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios1
 Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Filename: debs/byg.iosios.net.afc2d-arm64_1.2.1_iphoneos-arm64.deb
-Size: 1164
-MD5sum: 7eef2a37aa571e77ebd1f99a915254dd
-SHA1: c662ef9cf181b33e8a5bda489d2ad92635853feb
-SHA256: fa2748307ae7251de3ab1f0c88147705f18715b09570410389bb4dc560425c1f
+Size: 1136
+MD5sum: 90a0c9259dfb9670297ddeae45567161
+SHA1: 115c7fd6ce32fa0f94ba7daa83a298fee2685b36
+SHA256: 0e4803cbb5d54f77c0e56271eb015133e9a7d2922c8905dafe8835308f87300f
 Description: 在电脑上直接读取系统文件
 Author: Saurik, Cannathea
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -43,10 +42,10 @@ Installed-Size: 728
 Depends: firmware (>= 16.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
 Conflicts: com.82flex.singlevpn
 Filename: debs/byg.iosios.net.iphoneduoicon_0.1.21_iphoneos-arm64.deb
-Size: 1036
-MD5sum: 8ac97196ffba0882597c8eaa79ed38b1
-SHA1: c0e26e7c368eb5037338225067722a97f812c7dd
-SHA256: 9c3f7600dc8e488420193ccae7af3a444f735e6cf21885901cca58219d352c39
+Size: 1008
+MD5sum: 6c82cf63c150f5c4b15b47df92264094
+SHA1: 94b660d98717a264320552210761cd00880cbe78
+SHA256: 526c119c4a5f682d48a97fe5e6c0ba2f27d22693b5709d992095880274e21106
 Description: 仿iPhone Duo
 Author: Banana
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -59,10 +58,10 @@ Maintainer: bazik1337
 Installed-Size: 1820
 Depends: mobilesubstrate
 Filename: debs/com.bazik1337.flashlight18_1.0.2_iphoneos-arm64.deb
-Size: 956
-MD5sum: f4062a7fbf6b0c6b06d54ef9e6bd80b6
-SHA1: b1cefdd9da78e4beb406c01f7bb5b8b1356cf117
-SHA256: d62c0613d58413e65a04b8e82ab7df1dc24fc2f53f85fde30e7390b2c546653f
+Size: 928
+MD5sum: 5883894c2abaf29f05d6e230cb439f87
+SHA1: 2c26344451c295791df0a1a99c010b4804274c1c
+SHA256: 054418c604ac6fd947096041cd0104c57576aa92f565660f401f9ecea19abb73
 Description: iOS 18 Dynamic Island 手电筒动画 仅支持iOS16
 Author: bazik1337 (@bazik1337)
 Name: iOS 18 Flashlight
@@ -76,11 +75,10 @@ Depends: mobilesubstrate, firmware (>= 15.6.1)
 Conflicts: com.bazik.codexgenie27, com.bazik.genie27
 Replaces: com.bazik.codexgenie27
 Filename: debs/com.bazik1337.ios2627anims_1.4.7_iphoneos-arm64.deb
-Size: 1080
-MD5sum: bcfb2c15a2a5f0f2dd7fdd7ca98299f1
-SHA1: 0392d2b3974136dbb446816719e8c8cc2274d1b0
-SHA256: 1e639494a076c2a2984b215ad16b7a66aef70576144637c4bb56d4e0cee8325f
-Section: Tweaks
+Size: 1044
+MD5sum: a8ad3b0de598dabdcef136cbd5929b92
+SHA1: df9e50fb0a01c25494f11dc1fcfd33d18d7e4d92
+SHA256: 9f532e24ff614861dbe78f16830e324595a19ab3fad8cb4c4130eae08f062773
 Homepage: https://t.me/ba31k_tweaks
 Description: 移植iOS27的部分动画。测试iOS15.0设备会导致死机！！！iOS15.6.1可以运行
 Author: bazik1337 (@bazik1337)
@@ -93,10 +91,10 @@ Maintainer: Lumid
 Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.lumid.opaboutphone_1.5.0_iphoneos-arm64.deb
-Size: 1020
-MD5sum: 8236201ff9e064bac224c169936f37ac
-SHA1: fc13d2930b19e6df1625ccd9793075fbf9e05dbb
-SHA256: 89996778a03087f7faeb2566d5d9afffd7bde47ba1fd19e16201097f03865c55
+Size: 996
+MD5sum: 12181690f1fce0a9684d1676f3864242
+SHA1: f56f1320d4728a32a013c62eca2c1ba1ddf3acc3
+SHA256: 0ea13d9ac3fe849ab8eb59589b50548cbc5a0849a6eadfd08651cfd03a0aee8e
 Description: 仿OPPO关于本机
 Author: Lumid
 Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
@@ -109,11 +107,10 @@ Maintainer: opa334
 Installed-Size: 592
 Depends: ldid
 Filename: debs/com.opa334.trollstorelite_2.1.1_iphoneos-arm64.deb
-Size: 956
-MD5sum: 1ef30d351c5eabcdbf651e622ae838a7
-SHA1: e76939fc1e26e927d25a63d6d6e7be0386c6533b
-SHA256: 083fcbf33ecc1a95cafd091cd700bfb4bdf360358d6629722f4c77c53119fe65
-Section: Applications
+Size: 916
+MD5sum: 051095dd82e55bfe3721b096b87e81a2
+SHA1: 18e6e4cc9128494cd0454030d0c620a99ef2454d
+SHA256: 402049548cc82461aba4540f861946be3ed37edeffaf965a938ffeecf12ddd1f
 Description: 越狱版巨魔，俗称白巨魔
  非常好用喵
 Author: opa334
